@@ -2,9 +2,9 @@
 
 A portfolio made for a client, and filled with placeholder stock images by Steve Johnson.
 
-**Link to project:** #
+**Link to project:** https://steves-portfolio.netlify.app/
 
-![Photo of Steves Portfolio](#)
+![Photo of Steves Portfolio](/images/appScreenshot.png)
 
 ## How It's Made:
 
